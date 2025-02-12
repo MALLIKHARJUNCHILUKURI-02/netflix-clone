@@ -13,13 +13,11 @@ A responsive Netflix Clone built using only HTML and CSS. This project replicate
 - HTML5
 - CSS3 (Flexbox & Grid for layout, animations for effects)
 
-## 📸 Screenshots
-![Netflix Clone Screenshot](images/screenshot.png)
-
 ## 📂 Project Structure
 ```
 Netflix-Clone/
 │-- images/          # Stores image assets
+|-- videos           # Stores video assets
 │-- style.css        # Contains all the styles
 │-- index.html       # Main HTML file
 │-- README.md        # Project documentation
