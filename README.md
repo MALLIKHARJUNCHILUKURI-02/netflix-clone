@@ -42,5 +42,5 @@ This project is for educational purposes only and is not affiliated with Netflix
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- **Your Name** - [Your GitHub](https://github.com/yourusername)
-- **Email:** your.email@example.com
+- **MALLIKHARJUN REDDY CHILUKURI** - https://github.com/MALLIKHARJUNCHILUKURI-02
+- Email: mkreddychilukuri075@gmail.com  
